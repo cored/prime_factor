@@ -1,0 +1,3 @@
+module PrimeFactor
+  # Your code goes here...
+end
